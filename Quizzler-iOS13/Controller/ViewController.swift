@@ -39,7 +39,6 @@ class ViewController: UIViewController {
         
         trueButton.backgroundColor = UIColor.clear
         falseButton.backgroundColor = UIColor.clear
-    }
-    
+    }   
 }
 
